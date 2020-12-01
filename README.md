@@ -11,6 +11,8 @@ A característica desta nova atualização foi a implementação da funcionalida
 
 Passando o consumo médio de seu veículo e o preço da gasolina e etanol ele calcula qual das duas opções é mais econômica para se colocar. Caso não saiba o consumo médio de seu carro, no aplicativo contém uma lista de veículos e basta clicar que os valores são preenchidos automaticamente essa lista é atualizada aos poucos então nem sempre seu carro será encontrado.
 
+<h2> Telas </h2>
+
 ![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Consumo-de-Combustivel/main/unnamed%20(5).webp) 
 ![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Consumo-de-Combustivel/main/unnamed%20(6).webp)
 ![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Consumo-de-Combustivel/main/unnamed%20(7).webp)
