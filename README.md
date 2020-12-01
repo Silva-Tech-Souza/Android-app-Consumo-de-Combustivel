@@ -1,4 +1,4 @@
-![]( https://github.com/Silva-Tech-Souza/Android-app-QrCode/blob/main/icone_play_qr%20(1).png)
+![]( https://github.com/Silva-Tech-Souza/Android-app-Consumo-de-Combustivel/blob/main/logo_pgpouco%20(1).png)
 # Pague Pouco Combustível
 
 Vale lembrar que esses projetos são projetos antigos ou inacabados, são do início do aprendizado em programação caso esteja interessado em conhecer nossos novos projetos acesse o link do meu perfil. 
