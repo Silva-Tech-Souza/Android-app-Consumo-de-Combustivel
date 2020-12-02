@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Pague Pouco</string>
+
+    <!-- Tela 1 -->
+    <string name="tela_calculo_titulo_dois">Preço por Litro (R$):</string>
+    <string name="tela_calculo_titulo_um">Média de Consumo (Km/Litro):</string>
+    <string name="etanol_text">Etanol</string>
+    <string name="gas_text">Gasolina</string>
+    <string name="tela_calculo_btn_pesquisar_veiculo">Pesquisar Veículos</string>
+
+    <string name="etanol_text2">Etanol\n</string>
+    <string name="gas_text2">Gasolina\n</string>
+    <string name="durante_trejeto">Durante o Trajeto:</string>
+    <string name="manutencao">Manutenção em dia:\n</string>
+    <string name="calibragem_dos_pneus">Pneus Calibrados:\n</string>
+    <string name="ar">Ar Condicionado ligado:\n</string>
+    <string name="janela">Janela Aberta:\n</string>
+    <string name="bagegem">Está levando Bagagem:\n</string>
+    <string name="sim">Sim</string>
+
+    <string name="resutado">Resultado</string>
+    <string name="relacaogasolina">Relação Etanol/Gasolina:\n</string>
+    <string name="gastoental">Gasto com Etanol:\n</string>
+    <string name="gastogasolina">Gasto com Gasolina:</string>
+    <string name="digite">Digite aqui...</string>
+    <string name="abastecagasolina">ABASTEÇA COM GASOLINA</string>
+    <string name="abastecaetanol">ABASTEÇA COM ETANOL</string>
+    <string name="economiade">Economia de ≅ </string>
+    <string name="btn_voltar">Voltar</string>
+
+    <string name="calculator_button">Verificar</string>
+    <string name="calculator_estrada">Estrada</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="opcao1_tela_pesquisa">Selecionar uma Opção:</string>
+
+    <string name="consumogasolina">Consumo de Gasolina:\n</string>
+    <string name="consumoetanol">Consumo de Etanol:\n</string>
+    <string name="titulocalculo">Cálculo de Consumo do Veículo:</string>
+
+   <string name="gasolinatemmelhor">Gasolina tem o melhor consumo</string>
+    <string name="etanolgasolinamelhor">Gasolina e Etanol tem o mesmo consumo</string>
+   <string name="etanoltemelhor">Etanol tem o melhor consumo</string>
+
+    <string name="ganhode">Ganho de ≅ </string>
+
+    <string name="uebano">Urbano</string>
+
+    <string name="erro_etanol">Preencha o preço do etanol, e que seja diferente de 0</string>
+    <string name="erro_gasolina">Preencha o preço da gasolina, e que seja diferente de 0</string>
+    <string name="erro_media_etanol">Preencha o consumo por etanol, e que seja diferente de 0</string>
+    <string name="erro_media_gasolina">Preencha o consumo por gasolina, e que seja diferente de 0</string>
+
+
+    <string name="km_litro">Km/Litro</string>
+    <string name="per_km"> / Km</string>
+
+
+
+</resources>
