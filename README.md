@@ -16,3 +16,8 @@ Passando o consumo médio de seu veículo e o preço da gasolina e etanol ele ca
 ![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Consumo-de-Combustivel/main/unnamed%20(5).webp) 
 ![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Consumo-de-Combustivel/main/unnamed%20(6).webp)
 ![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Consumo-de-Combustivel/main/unnamed%20(7).webp)
+
+
+<h2> IDE e Dependência </H2>
+
+Para poder abrir esse projeto é necessário tem instalado em sua máquina o Android Studio.
